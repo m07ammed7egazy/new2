@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/css.css">
+    <title>CSS</title>
+</head>
+<body>
+    <header>
+        <h1>My books</h1>
+    </header>
+    <div>
+        <form>
+            <label style="color: aquamarine;" for="color">colors</label>
+            <input type="color" name="color" id="color"></select>
+        </form>
+    </div>
+</body>
+</html>
